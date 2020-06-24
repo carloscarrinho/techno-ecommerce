@@ -8,5 +8,5 @@ Projeto criado para aplicar os conhecimentos em Vuejs.
 
 ### Resultado
 
-![Resultado em gif](https://github.com/carloscarrinho/techno-ecommerce/tree/master/assets/output.gif)
-![Resultado em png](https://github.com/carloscarrinho/techno-ecommerce/tree/master/assets/techno.png)
+![Resultado em gif](https://github.com/carloscarrinho/techno-ecommerce/blob/master/assets/output.gif)
+![Resultado em png](https://github.com/carloscarrinho/techno-ecommerce/blob/master/assets/techno.png)
